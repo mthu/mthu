@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Martin Plicka (@mthu)
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Javascript
+- 📫 https://mplicka.cz/
