@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Martin Plicka (@mthu)
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Javascript
+- 🎾 Also I play tennis for fun
 - 📫 https://mplicka.cz/
